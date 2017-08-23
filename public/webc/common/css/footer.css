@@ -1,0 +1,399 @@
+/*!
+ * Bootstrap v2.3.2
+ *
+ * Copyright 2013 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world by @mdo and @fat.
+ */
+.bottomLine_ul{
+	margin:0 auto;
+	width:700px;
+}
+.bottomLine{
+	border-bottom: 1px solid #ccc;
+	color: #333333;
+	padding-bottom: 8px;
+	margin-bottom: 8px;
+}
+.bottomLine  ul{
+	text-align: center;
+	display: inline-block;
+	width: 712px;
+	
+}
+.bottomLine ul.index_ul{
+	margin-top:10px !important;
+}
+.bottomLine ul li{
+	list-style: none;
+	float: left;
+	width: 71px;
+	text-align: center;
+
+}
+.bottomLine  a{
+	color: #333333;
+}
+.bottomLine  a:hover{
+	color: #75b1ee;
+}
+.bottomline_a{
+	margin-right:5px;
+
+}
+.am-g_footer{
+	text-align: center;
+	font-size: 12px;
+	width:1200px;
+	margin:82px auto 0;
+	display:block;
+	clear: both;
+}
+.am-g_footer_bq{
+	margin:0 auto;
+}
+.index_bot{
+	margin-bottom:0px !important;
+	width:1200px;
+	margin:0 auto;
+	background: #fff;
+	/*padding-bottom: 30px;*/
+}
+.bot{
+	/*margin-top: 5px;*/
+	margin-bottom: 49px;
+	/*text-align: center;*/
+	color: #7b6f5b;
+}
+.bot_bq{
+	margin:0 auto;
+	width:700px;
+	height: 30px;
+}
+.footer_p{
+	 font-size: 12px;
+	 float: left;
+	 line-height: 10px;
+
+ }
+.footer_p_index{
+
+	line-height: 25px !important;
+
+}
+.footer_span_sh{
+		margin-left: 0px !important;
+	
+}
+.footer_span{
+	margin-left: 30px !important;
+}
+.footer_email{
+	margin-left: 20px !important;
+}
+.Second_footer{
+	margin-top:10px;
+	width:100%;
+	background: #fff;
+}
+.Second_footer_center{
+	width: 1200px;
+	height: 138px;
+	background: #fff;
+	margin:0 auto;
+	padding-top:46px;
+	padding-bottom:60px;
+}
+.contact1{
+	width:171px;
+}
+.contact2{
+	width:210px;
+}
+.contact3{
+	width:208px;
+}
+.contact4{
+	width:205px;
+	border-right: 0 !important;
+}
+.contact5{
+	width:190px;
+	border-right: 0 !important;
+}
+.Second_contact{
+	height: 120px;
+	float:left;
+	border-right: 1px solid #dedede;
+	text-align: center;
+}
+.Second_contact ul li{
+	list-style: none;
+	line-height: 20px;
+}
+.Second_contact ul li a{
+	font-size: 12px;
+	font-family: 'Microsoft YaHei', Helvetica, sans-serif;
+	color: #686868;
+	text-decoration: none;
+}
+.Second_contact ul li.cont_active a{
+	font-size: 16px;
+}
+.Second_contact ul li.cont_active_phone a{
+	font-size: 26px;
+	color: #f88600;
+	font-family: 'Microsoft YaHei', Helvetica, sans-serif;
+}
+.Second_contact ul li.cont_active_time a{
+	font-size: 14px;
+	font-family: 'Microsoft YaHei', Helvetica, sans-serif;
+	color: #686868;
+}
+.Hotline{
+	background: #f88600;
+	border:0px;
+	height: 30px;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Microsoft YaHei', Helvetica, sans-serif;
+}
+.cont_active_hotline{
+	height: 31px;
+	width:180px;
+	background: #f88600;
+	border-radius: 5px;
+	text-align: center;
+	position: relative;
+	margin-top:17px;
+}
+.cont_active_hotline img{
+	position: absolute;
+	top:7px;
+	left:12px;
+	z-index: 999;
+}
+.cont_active_hotline button{
+	position: absolute;
+	top:0px;
+	left:46px;
+}
+.index_footer{
+	margin-top:0px;
+	background: #fff;
+}
+.First_footer{
+	width: 100%;
+	background: #fff;
+	height: auto;
+}
+.index_footer_bq{
+	width: 100%;
+	background: #fff;
+	height: 30px;
+}
+.lrhr{
+	background: #f8f8f8;
+	height: 12px;
+	width: 100%;
+	margin-bottom: 102px;
+}
+.hrr{
+	margin-bottom: 50px;
+}
+.cont_active_time{
+	margin-top:20px;
+}
+.cityphone{
+	margin-top:1px;
+}
+.hrlb{
+	height: 10px;
+	width: 100%;
+	background: #f5f5f5;
+}
+.hrlb01{
+	height: 10px;
+	width: 1200px;
+	background: #f5f5f5;
+	margin:0 auto;
+}
+.lrf{
+	width: 1200px;
+	background: #f8f8f8;
+	height: 12px;
+	display: inline-block;
+}
+.fenye{
+	width: 345px;
+	height: 24px;
+}
+.feny_btn{
+	color: #d0cece;
+	width: 20px;
+	height: 20px;
+	border:1px solid #d0cece;
+	font-size: 15px;
+	font-family: "Microsoft Yahei";
+	background: #fff;
+	line-height: 10px;
+
+}
+.fenye ul li{
+	float:left;
+	width: 22px;
+	height: 20px;
+	font-size: 15px;
+	font-family: "Microsoft Yahei";
+	background: #fff;
+}
+.bianhao{
+	width: 93px;
+	height: 20px;
+	float:left;
+	border:1px solid #d0cece;
+	text-align: center;
+	line-height: 20px;
+
+}
+ul.bianhao li{
+	border-right: 1px solid #d0cece;
+
+}
+ul.bianhao li a{
+	font-size: 13px;
+	color: #686868;
+}
+.jianhao{
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-right: 8px;
+}
+.noborder{
+	border-right: 0px !important;
+}
+.jiaR{
+	margin-left:8px;
+	margin-right: 0px;
+}
+.jiaoCR{
+	margin-right: 0px;
+}
+.jiaoC{
+	border:0px;
+
+}
+.fengL{
+	width: 100px;
+	height: 18px;
+	float:left;
+}
+.fenye{
+	float:right;
+}
+.input_fen{
+	width: 28px;
+	height: 14px;
+	border: 1px solid #d0cece;
+	margin-left:3px;
+}
+.btn_span{
+	width: 42px;
+	height: 20px;
+	background: #f95555;
+	color: #fff;
+	text-align: center;
+	line-height: 18px;
+	font-size: 12px;
+	font-family: "Microsoft Yahei";
+	border: 0px;
+	border-right: 2px;
+	margin-left:16px;
+}
+.yiogng{
+	margin-left:7px;
+}
+.chongz{
+	margin-bottom: 55px;
+}
+/*��ҳ����*/
+/*�ղ�*/
+.shoucang{
+	height: auto;
+	width: 1200px;
+	margin:0 auto;
+}
+.shoucang ul{
+	height: 354px;
+	width: 1200px;
+	margin:0 auto;
+}
+.shoucang ul li{
+	float:left;
+	width: 221px;
+	height: 337px;
+	border:1px solid #d2d2d2;
+	margin-right:20px;
+}
+.shoucang01{
+	height: 16px;
+	margin-top:21px;
+	margin-left:12px;
+	margin-bottom: 15px;
+}
+.soanL{
+	float:left;
+	color:#fb3201;
+	font-size: 14px;
+	font-family: "Microsoft Yahei";
+}
+.soanR{
+	float:right;
+	width: 32px;
+	height: 14px;
+	color: #fff;
+	font-size:12px;
+	display: inline-block;
+	background: #fe6e4b;
+	text-align: center;
+	line-height: 14px;
+}
+.daolf{
+	font-size:12px !important;
+}
+.shoucang02 p{
+	color: #000000;
+	margin-left:12px;
+	margin-bottom: 9px;
+}
+.soan03L{
+	color:#686868;
+	float:left;
+
+}
+.soan03R{
+	background: #6ac855;
+	width: 64px;
+	height: 14px;
+	color: #fff;
+	font-size:12px;
+	display: inline-block;
+	text-align: center;
+	line-height: 14px;
+	float:right;
+}
+.shoucang03{
+	margin-left:12px;
+}
+.soanL del{
+	color:#686868;
+	margin-left:8px;
+}
+.SChao{
+	width: 1200px;
+	height: auto;
+	margin:0 auto 20px;
+}

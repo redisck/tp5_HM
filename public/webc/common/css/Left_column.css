@@ -1,0 +1,111 @@
+.left_cont-side{
+    width: 158px;
+    height: 644px;
+    float: left;
+    position: relative;
+    margin-left: 13px;
+}
+
+.side-neck {
+    position: absolute;
+    top: -10px;
+    left: -14px;
+    width: 185px;
+    height: 18px;
+    background: #FFF;
+    border: solid 1px #FFF;
+    border-radius: 18px;
+    box-shadow: 0 2px 5px #e3e3e3;
+    z-index: 10;
+}
+.side-neck i {
+    display: block;
+    margin: 5px 7px;
+    height: 8px;
+    background: #DDD;
+    border: solid 1px #DDD;
+    border-radius: 15px;
+}
+.ms-side {
+    position: absolute;
+    overflow: hidden;
+    width: 157px;
+    background: #FFF;
+    background-position: center top;
+    background-repeat: repeat-x;
+    box-shadow: 0 2px 5px #e3e3e3, -1px 2px 5px #e3e3e3;
+    z-index: 12;
+}
+.side-menu {
+    padding: 40px 0 0 0;
+}
+.side-menu-off .side-menu-tree {
+    display: block;
+}
+.sid_Pleft {
+    padding-left: 50px !important;
+}
+.side-menu-tree {
+    padding: 0 20px 3px 20px;
+    overflow: hidden;
+}
+.side-menu dt {
+     line-height: 28px;
+     font-size: 14px;
+     font-family: "Microsoft YaHei";
+     font-weight: bold;
+     color: #333;
+ }
+.sid_Pleft1 {
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.dt_top {
+    margin-bottom:9px;
+}
+.side-menu-tree dd {
+    position: relative;
+}
+.side-menu-tree a {
+    display: inline-block;
+    line-height: 24px;
+    color: #333;
+}
+.side-menu-off .switch-side-menu {
+    display: block;
+    background: #f5f5f5;
+    height: 20px;
+    _height: 0;
+    transition: all .2s;
+}
+.icon-up-side i {
+    margin-top: 3px;
+    _margin: -12px 0 8px 0;
+    border-bottom-color: #BBB;
+}
+.switch-side-menu {
+    text-align: center;
+}
+.switch-side-menu i {
+    display: inline-block;
+    height: 10px;
+    width: 14px;
+    border: solid 5px #f5f5f5;
+    background: url(../images/nabla_top.png);
+}
+.img-margin{
+    margin-right: 4px;
+    margin-left: -20px;
+}
+.side-menu-tree a.side-menu-tree_active {
+    display: inline-block;
+    line-height: 24px;
+    color: #F70 !important;
+}
+.list_s {
+    background-color: #f60 !important;
+}
+.sid_Pleft1 dd.paimaiactive a{
+    color: #f60 !important;
+}
+
